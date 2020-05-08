@@ -1,0 +1,9 @@
+---
+
+- name: Play to check the site
+
+  hosts: all
+
+  remote_user: ec2-user
+
+  tasks:
